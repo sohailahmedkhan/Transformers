@@ -1,3 +1,3 @@
 # Transformers
 
-<p> What is a Transformer? </p>
+<h2> What is a Transformer? </h2>
